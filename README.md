@@ -4,7 +4,7 @@ Li Shen ([VGG, University of Oxford](http://www.robots.ox.ac.uk/~vgg/)),
 [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm) (Peking University), 
 Gang Sun ([Momenta](http://momenta.ai)), Jie Hu ([Momenta](http://momenta.ai)).
 
-Email: lishen@robots.ox.ac.uk
+Email: lishen@robots.ox.ac.uk; sungang@momenta.ai
 
 ### Table of Contents
 0. [Introduction](#introduction)
